@@ -1,6 +1,12 @@
 # Personal
 Journal
 
+# IDE
+.idea
+
+#Data
+python/data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
